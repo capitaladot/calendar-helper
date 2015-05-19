@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.* | 5.*",
-        "capitaladot/core-helper": "1.0.*",
+        "capitaladot/core-helper": "dev-master",
         "stevebauman/eloquenttable": "1.1.*",
         "google/apiclient": " 1.*"
     },
