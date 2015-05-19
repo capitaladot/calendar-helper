@@ -1,5 +1,5 @@
 {
-    "name": "stevebauman/calendar-helper",
+    "name": "capitaladot/calendar-helper",
     "description": "A Laravel calendar package for using a Google Calendar Service Account",
     "authors": [
         {
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.* | 5.*",
-        "stevebauman/core-helper": "1.0.*",
+        "capitaladot/core-helper": "1.0.*",
         "stevebauman/eloquenttable": "1.1.*",
         "google/apiclient": " 1.*"
     },
